@@ -1,0 +1,1 @@
+I have used Python programming language to solve various problems, ranging from matrix multiplication to filling missing values, from regular expressions to proportional sampling, from finding the line that separates two different colored points to finding conditional probabilities.
